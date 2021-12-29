@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🐧 Linux user ~~(Arch BTW)~~
 - 💡 Things I've worked on in the past: https://sopy.one
 - 📘 Programming languages I know: 
   - Javascript
