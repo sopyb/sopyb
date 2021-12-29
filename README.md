@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 💡 Things I've worked on in the past: https://sopy.one
 - 📫 How to reach me: 
   - Discord: @Sopy<3#7207
   - Instagram: @DoimptSopy
