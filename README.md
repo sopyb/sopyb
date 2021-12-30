@@ -7,6 +7,9 @@
   - Kotlin
   - Java
   - C#
+  - Bash
+  - SQL
+  - HTML/CSS
 - 📫 How to reach me: 
   - Discord: @Sopy<3#7207
   - Instagram: @DoimptSopy
@@ -15,4 +18,4 @@
   - I once spent 3h debugging a simple syntax error.
   - I misspell words way too often
 
-![Sopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopyb&show_icons=true&theme=midnight-purple&custom_title=Sopy's+GitHub+stats)
+[![Sopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopyb&show_icons=true&theme=midnight-purple&custom_title=Sopy's+GitHub+stats)](https://github.com/anuraghazra/github-readme-stats)
