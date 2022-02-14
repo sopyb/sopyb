@@ -13,7 +13,7 @@
 - 📫 How to reach me: 
   - Discord: @Sopy<3#7207
   - Instagram: @DoimptSopy
-  - Email: sopygg@gmail.com 
+  - Email: contact@sopy.one
 - ⚡ Fun facts: 
   - I once spent 3h debugging a simple syntax error.
   - I misspell words way too often
