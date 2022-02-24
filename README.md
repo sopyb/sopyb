@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=sopyb&color=blueviolet)
 
 - 🐧 Linux user ~~(Arch BTW)~~
 - 💡 Things I've worked on in the past: https://sopy.one
