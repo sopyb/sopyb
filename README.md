@@ -21,4 +21,4 @@
 
 [![Sopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopyb&show_icons=true&theme=midnight-purple&custom_title=Sopy's+GitHub+stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sopy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sopyb&langs_count=4&layout=compact&hide=html,css&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Sopy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sopyb&langs_count=6&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
