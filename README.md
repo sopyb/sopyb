@@ -13,9 +13,9 @@
   - SQL
   - HTML/CSS
 - 📫 How to reach me: 
-  - Discord: @Sopy<3#7207
-  - Instagram: @DoimptSopy
   - Email: contact@sopy.one
+  - LinkedIn: [linkedin.com/in/sopy/](https://www.linkedin.com/in/sopy/)
+  - Instagram: [@DoimptSopy](https://www.instagram.com/doimptsopy/)
 - ⚡ Fun facts: 
   - I once spent 3h debugging a simple syntax error.
   - I misspell words way too often
