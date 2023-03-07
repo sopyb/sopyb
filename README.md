@@ -14,7 +14,7 @@
   - HTML/CSS
 - 📫 How to reach me: 
   - Email: contact@sopy.one
-  - LinkedIn: [linkedin.com/in/sopy/](https://www.linkedin.com/in/sopy/)
+  - LinkedIn: [in/sopy/](https://www.linkedin.com/in/sopy/)
   - Instagram: [@DoimptSopy](https://www.instagram.com/doimptsopy/)
 - ⚡ Fun facts: 
   - I once spent 3h debugging a simple syntax error.
