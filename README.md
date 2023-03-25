@@ -8,6 +8,7 @@
   - Kotlin
   - Java
   - C
+  - C++
   - C#
   - PHP
   - Bash
