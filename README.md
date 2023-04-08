@@ -7,7 +7,7 @@
 I'm a passionate self-taught full-stack developer and linux nerd.
 dreaming about changing the world, a line of code at a time.⭐🛏️
 
-🔭 I’m working currently on [NavigoLearn](https://github.com/NavigoLearn),
+🔭 I’m currently working on [NavigoLearn](https://github.com/NavigoLearn),
 a community-driven and open-source project
 that aims to help people learn programming.
 
