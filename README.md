@@ -8,13 +8,13 @@ dreaming about changing the world, a line of code at a time.⭐🛏️
 
 🔭 **I’m currently looking for projects to work on.**
 
-🌱 **I enjoy using:**
-- 🌟 Kotlin - Java - C#
-- ⚙️ Go - PHP - SQL
+🌱 **I like working with:**
+- 🌟 Kotlin · Java · C#
+- ⚙️ Go · PHP · SQL
 - 🛠️ C · C++ · Rust
-- 💻 Bash - Zsh - Powershell
-- 🌐 NodeJs - Javascript - Typescript
-- 🎨 HTML/CSS - React - Svelte
+- 💻 Bash · Zsh · Powershell
+- 🌐 NodeJs · Javascript · Typescript
+- 🎨 HTML/CSS · React · Svelte
 
 📫 **How to reach me:**
 - Email: [doimpt@sopy.one](mailto:doimpt@sopy.one)
