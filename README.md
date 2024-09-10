@@ -1,8 +1,14 @@
 <div align="center">
 
-![cat holding cat plushie](./theCat.png)<br>
+![cat holding cat plushie](./theCat.png)
 
-# Sopy
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Sopy</h1>
+    </summary>
+  </ul>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sopyb&color=EE5599&style=for-the-badge)
 [![Wakatime Badge](https://wakatime.com/badge/user/ea1ae654-23a7-4c9d-8111-e626caca9a28.svg?style=for-the-badge)](https://wakatime.com/@ea1ae654-23a7-4c9d-8111-e626caca9a28)
