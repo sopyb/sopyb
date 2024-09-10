@@ -35,14 +35,37 @@ Building random stuff, learning new things, and helping others is what I do best
 
 ### Projects I work/worked on
 
-<p align="center">
+<table align="center">
+  <thead>
+    <tr>
+      <th style="text-align: center;">Legend</th>
+      <th style="text-align: center;">Description</th>
+      <th style="text-align: center;">Legend</th>
+      <th style="text-align: center;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;">🛠️</td>
+      <td style="text-align: center;">Current Focus</td>
+      <td style="text-align: center;">🌲</td>
+      <td style="text-align: center;">Major Contributions</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">🔕</td>
+      <td style="text-align: center;">Inactive</td>
+      <td style="text-align: center;">🌱</td>
+      <td style="text-align: center;">Moderate Contributions</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">🪦</td>
+      <td style="text-align: center;">Stepped Away</td>
+      <td style="text-align: center;">💧</td>
+      <td style="text-align: center;">Minor Contributions</td>
+    </tr>
+  </tbody>
+</table>
 
-| Legend  | Description   | Legend | Description            |
-|:-------:|---------------|:------:|------------------------|
-|   🛠️   | Current Focus |   🌲   | Major Contributions    |
-|   🔕    | Inactive      |   🌱   | Moderate Contributions |
-|   🪦    | Stepped Away  |   💧   | Minor Contributions    |
-</p>
 
 - **[Sosh](https://github.com/sopyb/sosh)** 🛠️🌲 - Trying to build a shell in Rust that's POSIX compliant using some things I learned working on LLVM.
 - **[LLVM](https://github.com/llvm/llvm-project)** 🔕💧 - Made a clang-tidy check applying for an internship, got accepted and worked on the Aarch64 backend optimisations.
