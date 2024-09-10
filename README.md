@@ -18,8 +18,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&label=in/sopy)](https://linkedin.com/in/sopy)
 </div>
 
---- 
-
 ## 👤 About me:
 
 I'm a self-taught developer from Romania, currently pursuing a degree in Control and Automation Engineering.
@@ -57,8 +55,6 @@ Building random stuff, learning new things, and helping others is what I do best
 - **Proficient:** C, C++, JavaScript, Kotlin
 - **Competent:** Rust, Nix DSL, Python, Java, C#, PHP, SQL, Bash
 - **Familiar:** Go, Powershell, Zsh
-
-
 - **Version Control & CI/CD:** Git, GitHub Actions
 - **Containers & Deployment:** Docker, Nix
 - **IDEs & Editors:** JetBrains IDEs, Visual Studio Code, Unity
@@ -70,7 +66,6 @@ Building random stuff, learning new things, and helping others is what I do best
 - **Backend:** Express, Spring Boot, Laravel, Django
 - **Mobile:** React Native, Android SDK
 - **Embedded:** Arduino, STM32Cube
-
 - **SQL:** MariaDB, MySQL, SQLite, PostgreSQL
 - **NoSQL & Realtime:** MongoDB, Firebase, Redis
 
