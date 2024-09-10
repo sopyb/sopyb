@@ -38,9 +38,9 @@ Building random stuff, learning new things, and helping others is what I do best
 <table align="center">
   <thead>
     <tr>
-      <th style="text-align: center;">Legend</th>
+      <th style="text-align: center;"></th>
       <th style="text-align: center;">Description</th>
-      <th style="text-align: center;">Legend</th>
+      <th style="text-align: center;"></th>
       <th style="text-align: center;">Description</th>
     </tr>
   </thead>
