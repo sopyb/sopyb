@@ -22,7 +22,7 @@
 
 I'm a self-taught developer from Romania, currently pursuing a degree in Control and Automation Engineering.
 
-Currently trying my best to build a shell I'd not hate to use.
+Trying my best to build a shell I'd not hate to use.
 
 I love open-source, and I'm passionate about technology, always. I dream of changing the world, one line of code at a time. Contributing as much as I can to projects that I find interesting and useful.
 
