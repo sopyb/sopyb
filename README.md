@@ -84,7 +84,7 @@ Building random stuff, learning new things, and helping others is what I do best
 - **Operating Systems:** Linux, Windows
 - **Miscellaneous:** Krita, FL Studio
 
-### Frameworks && Databases
+### Frameworks & Databases
 - **Frontend:** React, Svelte, Bootstrap, TailwindCSS
 - **Backend:** Express, Spring Boot, Laravel, Django
 - **Mobile:** React Native, Android SDK
