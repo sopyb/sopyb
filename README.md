@@ -28,52 +28,26 @@ I love open-source, and I'm passionate about technology, always. I dream of chan
 
 Building random stuff, learning new things, and helping others is what I do best. I'm always looking for new opportunities to grow and learn.
 
-### Contact me
+### Contact me ✒️
 
 - Email: [doimpt@sopy.one](mailto:doimpt@sopy.one)
 - LinkedIn: [in/sopy](https://www.linkedin.com/in/sopy/)
 
-### Projects I work/worked on
+### Projects I work/worked on 🖱️
 
-<table align="center">
-  <thead>
-    <tr>
-      <th style="text-align: center;"></th>
-      <th style="text-align: center;">Description</th>
-      <th style="text-align: center;"></th>
-      <th style="text-align: center;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">🛠️</td>
-      <td style="text-align: center;">Current Focus</td>
-      <td style="text-align: center;">🌲</td>
-      <td style="text-align: center;">Major Contributions</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">🔕</td>
-      <td style="text-align: center;">Inactive</td>
-      <td style="text-align: center;">🌱</td>
-      <td style="text-align: center;">Moderate Contributions</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">🪦</td>
-      <td style="text-align: center;">Stepped Away</td>
-      <td style="text-align: center;">💧</td>
-      <td style="text-align: center;">Minor Contributions</td>
-    </tr>
-  </tbody>
-</table>
-
-
-- **[Sosh](https://github.com/sopyb/sosh)** 🛠️🌲 - Trying to build a shell in Rust that's POSIX compliant using some things I learned working on LLVM.
-- **[LLVM](https://github.com/llvm/llvm-project)** 🔕💧 - Made a clang-tidy check applying for an internship, got accepted and worked on the Aarch64 backend optimisations.
-- **[NavigoLearn](https://github.com/navigolearn)** 🪦🌲 - Community-driven platform for learning and teaching programming. Helping answer the question "Where do I start?".
-- **[VHEditor](https://github.com/vhqtvn/VHEditor-Android)** 🔕🌱 - A easy way to run code-server on Android. Implemented miscellaneous features and fixed a GitHub auth bug.
+- **[Sheesh](https://github.com/sopyb/sheesh)** 🛠️ Current Focus 🌲 Major contributions 
+  - Trying to build a shell in Rust that's POSIX compliant using some things I learned working on LLVM.
+- **[LLVM](https://github.com/llvm/llvm-project)** 🔕 Inactive 💧 Small contributions
+  - Wrote a clang-tidy modernizer check looking for `std::min` and `std:max` calls that can be replaced with initializer lists. For the contribution phase of the internship.
+  - During the internship, I learned about the Aarch64 backend: Tablegen, SelectionDAG and GlobalISel. I addressed a missing optimization in the Aarch64 backend where two large shifts and a combine could be simplified to a combine and a single shift.
+- **[NavigoLearn](https://github.com/navigolearn)** 🪦 Stepped away 🌲 Major contributions 
+  - Community-driven platform for learning and teaching programming. Helping answer the question "Where do I start?".
+  - Worked mainly on the backend, implementing the API and the database schema, but I also helped debug some Safari and Firefox related bugs on the frontend.
+- **[VHEditor](https://github.com/vhqtvn/VHEditor-Android)** 🔕 Inactive 🌱 Moderate Contributions
+  - A easy way to run code-server on Android. Implemented miscellaneous features and fixed a GitHub auth bug.
 - Other small personal projects here and there
 
-### Languages and Tools
+### Languages and Tools 🛠️
 
 - **Proficient:** C, C++, JavaScript, Kotlin
 - **Competent:** Rust, Nix DSL, Python, Java, C#, PHP, SQL, Bash
@@ -84,7 +58,7 @@ Building random stuff, learning new things, and helping others is what I do best
 - **Operating Systems:** Linux, Windows
 - **Miscellaneous:** Krita, FL Studio
 
-### Frameworks & Databases
+### Frameworks & Databases 📦
 - **Frontend:** React, Svelte, Bootstrap, TailwindCSS
 - **Backend:** Express, Spring Boot, Laravel, Django
 - **Mobile:** React Native, Android SDK
@@ -92,7 +66,7 @@ Building random stuff, learning new things, and helping others is what I do best
 - **SQL:** MariaDB, MySQL, SQLite, PostgreSQL
 - **NoSQL & Realtime:** MongoDB, Firebase, Redis
 
-### Hobbies
+### Hobbies 🎨
 
 - **Music Production:** I love making music, mostly electronic dance music, I love to mix genres up.
 - **Gaming:** I play games from time to time, mostly CS2, Beat Saber and Plants vs Zombies nowadays.
@@ -100,7 +74,7 @@ Building random stuff, learning new things, and helping others is what I do best
 - **Photography:** I love taking photos of nature, I'm not a professional, but I enjoy it.
 - **Writing:** I write poetry, it helps me understand my feelings when I am stuck.
 
-### Stats
+### Stats 📊
 
 [![Sopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopyb&show_icons=true&theme=midnight-purple&custom_title=Sopy's+GitHub+stats)](https://github.com/anuraghazra/github-readme-stats)
 
