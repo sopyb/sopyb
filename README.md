@@ -54,7 +54,6 @@ Building random stuff, learning new things, and helping others is what I do best
 - **Writing:** I write poetry, it helps me understand my feelings when I am stuck.
 
 ### Stats 📊
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sopyb&show_icons=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=sopyb&show_icons=true&theme=catppuccin_mocha)
 
-[![Sopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopyb&show_icons=true&theme=midnight-purple&custom_title=Sopy's+GitHub+stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Sopy's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sopyb&role=OWNER&langs_count=10&layout=compact&hide=cmake,html,css&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sopyb&layout=donut&langs_count=10&theme=catppuccin_mocha&hide=cmake,html,css&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=sopyb&layout=donut&langs_count=10&theme=catppuccin_mocha&hide=cmake,html,css&theme=catppuccin_mocha)
